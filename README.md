@@ -1,3 +1,8 @@
+Projeto referente ao desafio proposto sobre angular.
+
+Api utilizada em aula não funcionou, optei por utilizar a api do https://itbook.store/ 
+Também alterado alguns estilos do site.
+
 # ProjetoTeste
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
